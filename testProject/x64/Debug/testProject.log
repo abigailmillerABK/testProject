@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\abmiller\source\repos\testProject\testProject\Source.cpp(35,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abmiller\source\repos\testProject\testProject\Source.cpp(35,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abmiller\source\repos\testProject\testProject\Source.cpp(35,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abmiller\source\repos\testProject\testProject\Source.cpp(42,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abmiller\source\repos\testProject\testProject\Source.cpp(42,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abmiller\source\repos\testProject\testProject\Source.cpp(42,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\abmiller\source\repos\testProject\testProject\Source.cpp(47,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  testProject.vcxproj -> C:\Users\abmiller\source\repos\testProject\x64\Debug\testProject.exe
